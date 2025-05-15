@@ -1,8 +1,10 @@
 📞 Telecom Customer Churn Analysis
+
 📌 Project Brief
 Analyzed telecom customer data using Python to identify key factors influencing churn. Performed data cleaning, exploratory data analysis (EDA), and visualizations to uncover patterns that help improve customer retention strategies.
 
 🛠️ Tools & Libraries
+
 Python, Pandas, NumPy
 Matplotlib, Seaborn
 Jupyter Notebook
